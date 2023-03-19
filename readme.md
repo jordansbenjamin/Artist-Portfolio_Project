@@ -14,3 +14,6 @@ I added the font I want to use and overall during this commit styled the navbar,
 But essentially I changed the display property to inline-block to add all the elements in one line together, I also get to practice using classes and descendant combinators. 
 
 I've also noticed the default margins that some elements such as the h1 and the li, I know that you can apply a reset before styling css. However it's good to know here that regardless you have to set the value to 0, otherwise it will stack on top of the default.
+
+### Commit (20/03/23)
+Added images in the body that will display as a gallery of ceramics works, images are not mine and are loyalty free. I simply added width relative unit for now. 
