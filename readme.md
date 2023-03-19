@@ -30,3 +30,12 @@ I also set the images itself to have a width of 100% so that it takes up 100% of
 One last thing to note, is that I used box sixing border box to contain the sizing even more, otherwise it overflows and pushes the images to the next line. I did this so I'm able to use padding to create space between each images.
 
 Again, probably the most inefficient way to create this layout.
+
+### Commit 5 (20/03/23)
+I finished off styling the gallery, in fact, I wrapped each individual images which is inside a div container in a section element with a class of gallery. I did this, so I'm amble to align the first column of images with the h1 to keep it nice and tidy. 
+
+I styled the h2 for each image, mainly text styling but also slightly changed the position so that its closers to its respective images but also leaves a bit more space at the bottom from other images. 
+
+The last thing I did, was adding the object fit property which helps a lot with the sizing of the images, more especially so that it doesn't compress the image. It's a useful property.
+
+Oh, and I also added semantic markup, I wrapped the entire section element with a main element. 
