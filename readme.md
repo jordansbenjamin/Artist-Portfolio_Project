@@ -39,3 +39,12 @@ I styled the h2 for each image, mainly text styling but also slightly changed th
 The last thing I did, was adding the object fit property which helps a lot with the sizing of the images, more especially so that it doesn't compress the image. It's a useful property.
 
 Oh, and I also added semantic markup, I wrapped the entire section element with a main element. 
+
+### Commit 6 (21/03/23)
+This is the last commit for now, on the surface the project is pretty much done. All I'm doing is just one page, perhaps later in the future I will add more pages and have them linked together and add more features to the website overall. 
+
+For this commit I added the 'footer' section, I say that because ironically in the markup its not under footer at all. But essentially it's just a bit of text and a tiny contact section. 
+
+The biggest takeaway for this project so far was understanding the box model and how different elements interact with one another, and especially using the display property to manipulate the elements. 
+
+Understanding how to use specificity better was key during this, and also grouping selectors together neatly on CSS. 
